@@ -1,0 +1,13 @@
+.box1 {
+    background-color:rgb(151, 151, 151);
+    width: 600px;
+    height: 400px;
+}  
+.box2 {
+    background-color: lightsalmon;
+    width: 200px;
+    height: 50px;
+} 
+.highlighttext {
+    color: lime;
+}
